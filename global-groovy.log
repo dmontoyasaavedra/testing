@@ -1,0 +1,790 @@
+2017-04-18 14:47:55,668 INFO  [log] r2 is 1
+2017-04-18 14:47:55,669 INFO  [log] m is 1
+2017-04-18 14:47:55,674 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:47:55,675 INFO  [log] 39
+2017-04-18 14:47:55,676 INFO  [log] 2
+2017-04-18 14:47:55,677 INFO  [log]  n is 1
+2017-04-18 14:47:55,678 INFO  [log] 42
+2017-04-18 14:47:55,679 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:47:55,680 INFO  [log]  n is 2
+2017-04-18 14:47:55,680 INFO  [log] 43
+2017-04-18 14:47:55,681 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:47:55,681 INFO  [log] r6 is 44
+2017-04-18 14:47:55,682 INFO  [log]  o is 1
+2017-04-18 14:47:55,684 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:47:55,684 INFO  [log]  o is 2
+2017-04-18 14:47:55,685 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:47:55,686 INFO  [log]  o is 3
+2017-04-18 14:47:55,686 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:47:55,687 INFO  [log] r8 is 50
+2017-04-18 14:47:55,688 INFO  [log] r9 is 2
+2017-04-18 14:47:55,689 INFO  [log]  o is 1
+2017-04-18 14:47:55,690 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:47:55,690 INFO  [log]  o is 2
+2017-04-18 14:47:55,690 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:47:55,693 INFO  [log] 1
+2017-04-18 14:47:55,694 INFO  [log] 62
+2017-04-18 14:47:55,695 INFO  [log] 1
+2017-04-18 14:47:55,696 INFO  [log]  n is 1
+2017-04-18 14:47:55,697 INFO  [log] 65
+2017-04-18 14:47:55,698 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:47:57,183 INFO  [log] Reservation Number is 64643734
+2017-04-18 14:47:57,184 INFO  [log] TestCaseID is TC001
+2017-04-18 14:47:57,184 INFO  [log] Hotel Code is MSYAP
+2017-04-18 14:47:57,191 INFO  [log] Row Number is 001
+2017-04-18 14:47:57,389 INFO  [log] Data updated in Excel 64643734
+2017-04-18 14:47:57,401 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:47:57,404 INFO  [log] 	Executed Test step <PT-GET-AMEA-IC-SPD> for Hotel MSYAP
+2017-04-18 14:47:57,550 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:47:57,553 INFO  [log] r2 is 1
+2017-04-18 14:47:57,554 INFO  [log] m is 1
+2017-04-18 14:47:57,554 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:47:57,555 INFO  [log] 39
+2017-04-18 14:47:57,555 INFO  [log] 2
+2017-04-18 14:47:57,555 INFO  [log]  n is 1
+2017-04-18 14:47:57,556 INFO  [log] 42
+2017-04-18 14:47:57,557 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:47:57,557 INFO  [log]  n is 2
+2017-04-18 14:47:57,557 INFO  [log] 43
+2017-04-18 14:47:57,558 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:47:57,558 INFO  [log] r6 is 44
+2017-04-18 14:47:57,559 INFO  [log]  o is 1
+2017-04-18 14:47:57,559 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:47:57,559 INFO  [log]  o is 2
+2017-04-18 14:47:57,560 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:47:57,560 INFO  [log]  o is 3
+2017-04-18 14:47:57,561 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:47:57,561 INFO  [log] r8 is 50
+2017-04-18 14:47:57,562 INFO  [log] r9 is 2
+2017-04-18 14:47:57,562 INFO  [log]  o is 1
+2017-04-18 14:47:57,563 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:47:57,563 INFO  [log]  o is 2
+2017-04-18 14:47:57,563 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:47:57,564 INFO  [log] 1
+2017-04-18 14:47:57,564 INFO  [log] 62
+2017-04-18 14:47:57,565 INFO  [log] 1
+2017-04-18 14:47:57,565 INFO  [log]  n is 1
+2017-04-18 14:47:57,565 INFO  [log] 65
+2017-04-18 14:47:57,565 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:47:57,648 INFO  [log] Reservation Number is 64463919
+2017-04-18 14:47:57,648 INFO  [log] TestCaseID is TC002
+2017-04-18 14:47:57,649 INFO  [log] Hotel Code is SYDCB
+2017-04-18 14:47:57,649 INFO  [log] Row Number is 002
+2017-04-18 14:47:57,707 INFO  [log] Data updated in Excel 64463919
+2017-04-18 14:47:57,708 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:47:57,739 INFO  [log] 	Executed Test step <PT-GET-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:47:58,885 INFO  [log] 	Executed Test step <GET-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:47:58,902 INFO  [log] 	Executed Test step <PT-GET-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:47:59,096 INFO  [log] 	Executed Test step <POST-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:47:59,121 INFO  [log] 	Executed Test step <PT-GET(false)-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:47:59,956 INFO  [log] 	Executed Test step <GET(false)-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:47:59,971 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:48:00,154 INFO  [log] 	Executed Test step <POST(updatePref)-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:48:00,171 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:48:00,911 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMEA-CP-SPD> for Hotel SYDCB
+2017-04-18 14:48:00,971 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:00,976 INFO  [log] r2 is 1
+2017-04-18 14:48:00,976 INFO  [log] m is 1
+2017-04-18 14:48:00,977 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:00,977 INFO  [log] 39
+2017-04-18 14:48:00,978 INFO  [log] 2
+2017-04-18 14:48:00,978 INFO  [log]  n is 1
+2017-04-18 14:48:00,979 INFO  [log] 42
+2017-04-18 14:48:00,979 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:00,980 INFO  [log]  n is 2
+2017-04-18 14:48:00,980 INFO  [log] 43
+2017-04-18 14:48:00,981 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:00,981 INFO  [log] r6 is 44
+2017-04-18 14:48:00,982 INFO  [log]  o is 1
+2017-04-18 14:48:00,982 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:00,983 INFO  [log]  o is 2
+2017-04-18 14:48:00,983 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:00,986 INFO  [log]  o is 3
+2017-04-18 14:48:00,987 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:00,988 INFO  [log] r8 is 50
+2017-04-18 14:48:00,988 INFO  [log] r9 is 2
+2017-04-18 14:48:00,988 INFO  [log]  o is 1
+2017-04-18 14:48:00,989 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:00,989 INFO  [log]  o is 2
+2017-04-18 14:48:00,996 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:00,997 INFO  [log] 1
+2017-04-18 14:48:00,998 INFO  [log] 62
+2017-04-18 14:48:00,998 INFO  [log] 1
+2017-04-18 14:48:00,999 INFO  [log]  n is 1
+2017-04-18 14:48:00,999 INFO  [log] 65
+2017-04-18 14:48:01,012 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:01,100 INFO  [log] Reservation Number is 64463943
+2017-04-18 14:48:01,101 INFO  [log] TestCaseID is TC003
+2017-04-18 14:48:01,102 INFO  [log] Hotel Code is YYZHA
+2017-04-18 14:48:01,102 INFO  [log] Row Number is 003
+2017-04-18 14:48:01,171 INFO  [log] Data updated in Excel 64463943
+2017-04-18 14:48:01,172 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:01,188 INFO  [log] 	Executed Test step <PT-GET-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:01,382 INFO  [log] 	Executed Test step <GET-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:01,391 INFO  [log] 	Executed Test step <PT-GET-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:01,638 INFO  [log] 	Executed Test step <POST-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:01,649 INFO  [log] 	Executed Test step <PT-GET(false)-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:01,879 INFO  [log] 	Executed Test step <GET(false)-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:01,887 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:02,094 INFO  [log] 	Executed Test step <POST(updatePref)-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:02,108 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:02,329 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMER-IC-SPD> for Hotel YYZHA
+2017-04-18 14:48:02,417 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:02,421 INFO  [log] r2 is 1
+2017-04-18 14:48:02,422 INFO  [log] m is 1
+2017-04-18 14:48:02,423 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:02,423 INFO  [log] 39
+2017-04-18 14:48:02,423 INFO  [log] 2
+2017-04-18 14:48:02,424 INFO  [log]  n is 1
+2017-04-18 14:48:02,424 INFO  [log] 42
+2017-04-18 14:48:02,425 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:02,425 INFO  [log]  n is 2
+2017-04-18 14:48:02,426 INFO  [log] 43
+2017-04-18 14:48:02,426 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:02,426 INFO  [log] r6 is 44
+2017-04-18 14:48:02,438 INFO  [log]  o is 1
+2017-04-18 14:48:02,439 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:02,439 INFO  [log]  o is 2
+2017-04-18 14:48:02,440 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:02,440 INFO  [log]  o is 3
+2017-04-18 14:48:02,442 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:02,443 INFO  [log] r8 is 50
+2017-04-18 14:48:02,449 INFO  [log] r9 is 2
+2017-04-18 14:48:02,450 INFO  [log]  o is 1
+2017-04-18 14:48:02,452 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:02,452 INFO  [log]  o is 2
+2017-04-18 14:48:02,453 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:02,453 INFO  [log] 1
+2017-04-18 14:48:02,460 INFO  [log] 62
+2017-04-18 14:48:02,461 INFO  [log] 1
+2017-04-18 14:48:02,461 INFO  [log]  n is 1
+2017-04-18 14:48:02,462 INFO  [log] 65
+2017-04-18 14:48:02,462 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:02,690 INFO  [log] Reservation Number is 64463962
+2017-04-18 14:48:02,690 INFO  [log] TestCaseID is TC004
+2017-04-18 14:48:02,691 INFO  [log] Hotel Code is GYEAP
+2017-04-18 14:48:02,691 INFO  [log] Row Number is 004
+2017-04-18 14:48:02,738 INFO  [log] Data updated in Excel 64463962
+2017-04-18 14:48:02,739 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:02,749 INFO  [log] 	Executed Test step <PT-GET-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,059 INFO  [log] 	Executed Test step <GET-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,067 INFO  [log] 	Executed Test step <PT-GET-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,315 INFO  [log] 	Executed Test step <POST-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,328 INFO  [log] 	Executed Test step <PT-GET(false)-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,620 INFO  [log] 	Executed Test step <GET(false)-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,628 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,841 INFO  [log] 	Executed Test step <POST(updatePref)-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:03,850 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:04,158 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMER-HI-SPD> for Hotel GYEAP
+2017-04-18 14:48:04,216 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:04,221 INFO  [log] r2 is 1
+2017-04-18 14:48:04,221 INFO  [log] m is 1
+2017-04-18 14:48:04,222 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:04,222 INFO  [log] 39
+2017-04-18 14:48:04,223 INFO  [log] 2
+2017-04-18 14:48:04,223 INFO  [log]  n is 1
+2017-04-18 14:48:04,223 INFO  [log] 42
+2017-04-18 14:48:04,224 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:04,224 INFO  [log]  n is 2
+2017-04-18 14:48:04,224 INFO  [log] 43
+2017-04-18 14:48:04,225 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:04,225 INFO  [log] r6 is 44
+2017-04-18 14:48:04,230 INFO  [log]  o is 1
+2017-04-18 14:48:04,231 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:04,231 INFO  [log]  o is 2
+2017-04-18 14:48:04,232 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:04,232 INFO  [log]  o is 3
+2017-04-18 14:48:04,233 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:04,233 INFO  [log] r8 is 50
+2017-04-18 14:48:04,239 INFO  [log] r9 is 2
+2017-04-18 14:48:04,240 INFO  [log]  o is 1
+2017-04-18 14:48:04,240 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:04,240 INFO  [log]  o is 2
+2017-04-18 14:48:04,241 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:04,242 INFO  [log] 1
+2017-04-18 14:48:04,248 INFO  [log] 62
+2017-04-18 14:48:04,250 INFO  [log] 1
+2017-04-18 14:48:04,250 INFO  [log]  n is 1
+2017-04-18 14:48:04,251 INFO  [log] 65
+2017-04-18 14:48:04,251 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:04,378 INFO  [log] Reservation Number is 
+2017-04-18 14:48:04,379 INFO  [log] TestCaseID is TC005
+2017-04-18 14:48:04,379 INFO  [log] Hotel Code is WASNY
+2017-04-18 14:48:04,379 INFO  [log] Row Number is 005
+2017-04-18 14:48:04,523 INFO  [log] Data updated in Excel 
+2017-04-18 14:48:04,524 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:04,531 INFO  [log] 	Executed Test step <PT-GET-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:04,840 INFO  [log] 	Executed Test step <GET-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:04,848 INFO  [log] 	Executed Test step <PT-GET-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:04,949 INFO  [log] 	Executed Test step <POST-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:04,957 INFO  [log] 	Executed Test step <PT-GET(false)-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:05,056 INFO  [log] 	Executed Test step <GET(false)-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:05,064 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:05,171 INFO  [log] 	Executed Test step <POST(updatePref)-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:05,180 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:05,281 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMER-EX-SPD> for Hotel WASNY
+2017-04-18 14:48:05,342 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:05,347 INFO  [log] r2 is 1
+2017-04-18 14:48:05,347 INFO  [log] m is 1
+2017-04-18 14:48:05,349 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:05,350 INFO  [log] 39
+2017-04-18 14:48:05,350 INFO  [log] 2
+2017-04-18 14:48:05,350 INFO  [log]  n is 1
+2017-04-18 14:48:05,351 INFO  [log] 42
+2017-04-18 14:48:05,351 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:05,352 INFO  [log]  n is 2
+2017-04-18 14:48:05,352 INFO  [log] 43
+2017-04-18 14:48:05,353 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:05,353 INFO  [log] r6 is 44
+2017-04-18 14:48:05,353 INFO  [log]  o is 1
+2017-04-18 14:48:05,354 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:05,354 INFO  [log]  o is 2
+2017-04-18 14:48:05,361 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:05,362 INFO  [log]  o is 3
+2017-04-18 14:48:05,362 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:05,362 INFO  [log] r8 is 50
+2017-04-18 14:48:05,363 INFO  [log] r9 is 2
+2017-04-18 14:48:05,363 INFO  [log]  o is 1
+2017-04-18 14:48:05,363 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:05,368 INFO  [log]  o is 2
+2017-04-18 14:48:05,369 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:05,369 INFO  [log] 1
+2017-04-18 14:48:05,369 INFO  [log] 62
+2017-04-18 14:48:05,370 INFO  [log] 1
+2017-04-18 14:48:05,370 INFO  [log]  n is 1
+2017-04-18 14:48:05,375 INFO  [log] 65
+2017-04-18 14:48:05,376 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:05,463 INFO  [log] Reservation Number is 64463984
+2017-04-18 14:48:05,464 INFO  [log] TestCaseID is TC006
+2017-04-18 14:48:05,464 INFO  [log] Hotel Code is SANIS
+2017-04-18 14:48:05,465 INFO  [log] Row Number is 006
+2017-04-18 14:48:05,505 INFO  [log] Data updated in Excel 64463984
+2017-04-18 14:48:05,506 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:05,512 INFO  [log] 	Executed Test step <PT-GET-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:05,840 INFO  [log] 	Executed Test step <GET-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:05,847 INFO  [log] 	Executed Test step <PT-GET-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,059 INFO  [log] 	Executed Test step <POST-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,070 INFO  [log] 	Executed Test step <PT-GET(false)-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,353 INFO  [log] 	Executed Test step <GET(false)-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,360 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,555 INFO  [log] 	Executed Test step <POST(updatePref)-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,565 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,822 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMER-IN-SPD> for Hotel SANIS
+2017-04-18 14:48:06,897 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:06,904 INFO  [log] r2 is 1
+2017-04-18 14:48:06,904 INFO  [log] m is 1
+2017-04-18 14:48:06,905 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:06,905 INFO  [log] 39
+2017-04-18 14:48:06,906 INFO  [log] 2
+2017-04-18 14:48:06,906 INFO  [log]  n is 1
+2017-04-18 14:48:06,907 INFO  [log] 42
+2017-04-18 14:48:06,912 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:06,913 INFO  [log]  n is 2
+2017-04-18 14:48:06,913 INFO  [log] 43
+2017-04-18 14:48:06,913 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:06,914 INFO  [log] r6 is 44
+2017-04-18 14:48:06,915 INFO  [log]  o is 1
+2017-04-18 14:48:06,920 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:06,920 INFO  [log]  o is 2
+2017-04-18 14:48:06,921 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:06,921 INFO  [log]  o is 3
+2017-04-18 14:48:06,922 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:06,922 INFO  [log] r8 is 50
+2017-04-18 14:48:06,923 INFO  [log] r9 is 2
+2017-04-18 14:48:06,929 INFO  [log]  o is 1
+2017-04-18 14:48:06,930 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:06,931 INFO  [log]  o is 2
+2017-04-18 14:48:06,931 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:06,932 INFO  [log] 1
+2017-04-18 14:48:06,933 INFO  [log] 62
+2017-04-18 14:48:06,941 INFO  [log] 1
+2017-04-18 14:48:06,941 INFO  [log]  n is 1
+2017-04-18 14:48:06,942 INFO  [log] 65
+2017-04-18 14:48:06,942 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:07,076 INFO  [log] Reservation Number is 64464007
+2017-04-18 14:48:07,076 INFO  [log] TestCaseID is TC007
+2017-04-18 14:48:07,077 INFO  [log] Hotel Code is DALLC
+2017-04-18 14:48:07,077 INFO  [log] Row Number is 007
+2017-04-18 14:48:07,124 INFO  [log] Data updated in Excel 64464007
+2017-04-18 14:48:07,125 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:07,136 INFO  [log] 	Executed Test step <PT-GET-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:07,467 INFO  [log] 	Executed Test step <GET-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:07,473 INFO  [log] 	Executed Test step <PT-GET-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:07,694 INFO  [log] 	Executed Test step <POST-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:07,702 INFO  [log] 	Executed Test step <PT-GET(false)-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:08,011 INFO  [log] 	Executed Test step <GET(false)-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:08,019 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:08,257 INFO  [log] 	Executed Test step <POST(updatePref)-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:08,267 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:08,589 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMER-SB-SPD> for Hotel DALLC
+2017-04-18 14:48:08,651 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:08,655 INFO  [log] r2 is 1
+2017-04-18 14:48:08,656 INFO  [log] m is 1
+2017-04-18 14:48:08,657 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:08,657 INFO  [log] 39
+2017-04-18 14:48:08,658 INFO  [log] 2
+2017-04-18 14:48:08,658 INFO  [log]  n is 1
+2017-04-18 14:48:08,659 INFO  [log] 42
+2017-04-18 14:48:08,659 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:08,660 INFO  [log]  n is 2
+2017-04-18 14:48:08,660 INFO  [log] 43
+2017-04-18 14:48:08,661 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:08,661 INFO  [log] r6 is 44
+2017-04-18 14:48:08,667 INFO  [log]  o is 1
+2017-04-18 14:48:08,668 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:08,669 INFO  [log]  o is 2
+2017-04-18 14:48:08,670 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:08,670 INFO  [log]  o is 3
+2017-04-18 14:48:08,671 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:08,671 INFO  [log] r8 is 50
+2017-04-18 14:48:08,676 INFO  [log] r9 is 2
+2017-04-18 14:48:08,677 INFO  [log]  o is 1
+2017-04-18 14:48:08,678 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:08,678 INFO  [log]  o is 2
+2017-04-18 14:48:08,678 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:08,679 INFO  [log] 1
+2017-04-18 14:48:08,684 INFO  [log] 62
+2017-04-18 14:48:08,685 INFO  [log] 1
+2017-04-18 14:48:08,685 INFO  [log]  n is 1
+2017-04-18 14:48:08,686 INFO  [log] 65
+2017-04-18 14:48:08,686 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:08,840 INFO  [log] Reservation Number is 64464032
+2017-04-18 14:48:08,840 INFO  [log] TestCaseID is TC008
+2017-04-18 14:48:08,841 INFO  [log] Hotel Code is BALLM
+2017-04-18 14:48:08,841 INFO  [log] Row Number is 008
+2017-04-18 14:48:08,879 INFO  [log] Data updated in Excel 64464032
+2017-04-18 14:48:08,881 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:08,887 INFO  [log] 	Executed Test step <PT-GET-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:12,939 INFO  [log] 	Executed Test step <GET-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:12,944 INFO  [log] 	Executed Test step <PT-GET-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:13,193 INFO  [log] 	Executed Test step <POST-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:13,203 INFO  [log] 	Executed Test step <PT-GET(false)-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:13,517 INFO  [log] 	Executed Test step <GET(false)-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:13,523 INFO  [log] 	Executed Test step <PT-POST(updatePref)-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:13,761 INFO  [log] 	Executed Test step <POST(updatePref)-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:13,769 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:14,072 INFO  [log] 	Executed Test step <GET(false-updatedPref)-AMER-CW-SPD> for Hotel BALLM
+2017-04-18 14:48:14,159 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:14,167 INFO  [log] r2 is 1
+2017-04-18 14:48:14,168 INFO  [log] m is 1
+2017-04-18 14:48:14,170 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:14,170 INFO  [log] 39
+2017-04-18 14:48:14,171 INFO  [log] 2
+2017-04-18 14:48:14,172 INFO  [log]  n is 1
+2017-04-18 14:48:14,173 INFO  [log] 42
+2017-04-18 14:48:14,173 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:14,174 INFO  [log]  n is 2
+2017-04-18 14:48:14,175 INFO  [log] 43
+2017-04-18 14:48:14,187 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:14,187 INFO  [log] r6 is 44
+2017-04-18 14:48:14,188 INFO  [log]  o is 1
+2017-04-18 14:48:14,189 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:14,189 INFO  [log]  o is 2
+2017-04-18 14:48:14,189 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:14,196 INFO  [log]  o is 3
+2017-04-18 14:48:14,198 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:14,198 INFO  [log] r8 is 50
+2017-04-18 14:48:14,199 INFO  [log] r9 is 2
+2017-04-18 14:48:14,199 INFO  [log]  o is 1
+2017-04-18 14:48:14,200 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:14,200 INFO  [log]  o is 2
+2017-04-18 14:48:14,207 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:14,208 INFO  [log] 1
+2017-04-18 14:48:14,209 INFO  [log] 62
+2017-04-18 14:48:14,209 INFO  [log] 1
+2017-04-18 14:48:14,209 INFO  [log]  n is 1
+2017-04-18 14:48:14,210 INFO  [log] 65
+2017-04-18 14:48:14,216 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:14,395 INFO  [log] Reservation Number is 
+2017-04-18 14:48:14,396 INFO  [log] TestCaseID is TC009
+2017-04-18 14:48:14,396 INFO  [log] Hotel Code is BERHA
+2017-04-18 14:48:14,397 INFO  [log] Row Number is 009
+2017-04-18 14:48:14,435 INFO  [log] Data updated in Excel 
+2017-04-18 14:48:14,436 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:14,442 INFO  [log] 	Executed Test step <PT-GET-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,544 INFO  [log] 	Executed Test step <GET-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,552 INFO  [log] 	Executed Test step <PT-GET-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,655 INFO  [log] 	Executed Test step <POST-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,661 INFO  [log] 	Executed Test step <PT-GET(false)-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,771 INFO  [log] 	Executed Test step <GET(false)-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,778 INFO  [log] 	Executed Test step <PT-POST(updatePref)-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,876 INFO  [log] 	Executed Test step <POST(updatePref)-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:14,885 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:15,003 INFO  [log] 	Executed Test step <GET(false-updatedPref)-EUROPE-IC-SPD> for Hotel BERHA
+2017-04-18 14:48:15,087 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:15,091 INFO  [log] r2 is 1
+2017-04-18 14:48:15,092 INFO  [log] m is 1
+2017-04-18 14:48:15,092 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:15,094 INFO  [log] 39
+2017-04-18 14:48:15,095 INFO  [log] 2
+2017-04-18 14:48:15,095 INFO  [log]  n is 1
+2017-04-18 14:48:15,095 INFO  [log] 42
+2017-04-18 14:48:15,106 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:15,106 INFO  [log]  n is 2
+2017-04-18 14:48:15,108 INFO  [log] 43
+2017-04-18 14:48:15,109 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:15,109 INFO  [log] r6 is 44
+2017-04-18 14:48:15,110 INFO  [log]  o is 1
+2017-04-18 14:48:15,110 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:15,121 INFO  [log]  o is 2
+2017-04-18 14:48:15,125 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:15,126 INFO  [log]  o is 3
+2017-04-18 14:48:15,127 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:15,128 INFO  [log] r8 is 50
+2017-04-18 14:48:15,128 INFO  [log] r9 is 2
+2017-04-18 14:48:15,140 INFO  [log]  o is 1
+2017-04-18 14:48:15,142 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:15,143 INFO  [log]  o is 2
+2017-04-18 14:48:15,143 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:15,145 INFO  [log] 1
+2017-04-18 14:48:15,145 INFO  [log] 62
+2017-04-18 14:48:15,145 INFO  [log] 1
+2017-04-18 14:48:15,158 INFO  [log]  n is 1
+2017-04-18 14:48:15,159 INFO  [log] 65
+2017-04-18 14:48:15,159 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:15,274 INFO  [log] Reservation Number is 64464045
+2017-04-18 14:48:15,275 INFO  [log] TestCaseID is TC010
+2017-04-18 14:48:15,275 INFO  [log] Hotel Code is HDBGE
+2017-04-18 14:48:15,276 INFO  [log] Row Number is 010
+2017-04-18 14:48:15,326 INFO  [log] Data updated in Excel 64464045
+2017-04-18 14:48:15,330 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:15,339 INFO  [log] 	Executed Test step <PT-GET-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:15,544 INFO  [log] 	Executed Test step <GET-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:15,550 INFO  [log] 	Executed Test step <PT-GET-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:15,772 INFO  [log] 	Executed Test step <POST-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:15,780 INFO  [log] 	Executed Test step <PT-GET(false)-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:16,014 INFO  [log] 	Executed Test step <GET(false)-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:16,021 INFO  [log] 	Executed Test step <PT-POST(updatePref)-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:16,255 INFO  [log] 	Executed Test step <POST(updatePref)-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:16,263 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:16,467 INFO  [log] 	Executed Test step <GET(false-updatedPref)-EUROPE-CP-SPD> for Hotel HDBGE
+2017-04-18 14:48:16,532 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:16,538 INFO  [log] r2 is 1
+2017-04-18 14:48:16,538 INFO  [log] m is 1
+2017-04-18 14:48:16,539 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:16,539 INFO  [log] 39
+2017-04-18 14:48:16,540 INFO  [log] 2
+2017-04-18 14:48:16,540 INFO  [log]  n is 1
+2017-04-18 14:48:16,542 INFO  [log] 42
+2017-04-18 14:48:16,542 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:16,542 INFO  [log]  n is 2
+2017-04-18 14:48:16,543 INFO  [log] 43
+2017-04-18 14:48:16,543 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:16,543 INFO  [log] r6 is 44
+2017-04-18 14:48:16,552 INFO  [log]  o is 1
+2017-04-18 14:48:16,553 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:16,553 INFO  [log]  o is 2
+2017-04-18 14:48:16,554 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:16,554 INFO  [log]  o is 3
+2017-04-18 14:48:16,554 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:16,555 INFO  [log] r8 is 50
+2017-04-18 14:48:16,561 INFO  [log] r9 is 2
+2017-04-18 14:48:16,562 INFO  [log]  o is 1
+2017-04-18 14:48:16,563 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:16,563 INFO  [log]  o is 2
+2017-04-18 14:48:16,564 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:16,565 INFO  [log] 1
+2017-04-18 14:48:16,572 INFO  [log] 62
+2017-04-18 14:48:16,574 INFO  [log] 1
+2017-04-18 14:48:16,574 INFO  [log]  n is 1
+2017-04-18 14:48:16,575 INFO  [log] 65
+2017-04-18 14:48:16,575 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:16,802 INFO  [log] Reservation Number is 64464053
+2017-04-18 14:48:16,802 INFO  [log] TestCaseID is TC011
+2017-04-18 14:48:16,802 INFO  [log] Hotel Code is MUCHB
+2017-04-18 14:48:16,803 INFO  [log] Row Number is 011
+2017-04-18 14:48:16,839 INFO  [log] Data updated in Excel 64464053
+2017-04-18 14:48:16,840 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:16,846 INFO  [log] 	Executed Test step <PT-GET-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,104 INFO  [log] 	Executed Test step <GET-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,109 INFO  [log] 	Executed Test step <PT-GET-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,293 INFO  [log] 	Executed Test step <POST-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,300 INFO  [log] 	Executed Test step <PT-GET(false)-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,586 INFO  [log] 	Executed Test step <GET(false)-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,592 INFO  [log] 	Executed Test step <PT-POST(updatePref)-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,803 INFO  [log] 	Executed Test step <POST(updatePref)-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:17,810 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:18,072 INFO  [log] 	Executed Test step <GET(false-updatedPref)-EUROPE-HI-SPD> for Hotel MUCHB
+2017-04-18 14:48:18,144 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:18,155 INFO  [log] r2 is 1
+2017-04-18 14:48:18,155 INFO  [log] m is 1
+2017-04-18 14:48:18,156 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:18,156 INFO  [log] 39
+2017-04-18 14:48:18,157 INFO  [log] 2
+2017-04-18 14:48:18,157 INFO  [log]  n is 1
+2017-04-18 14:48:18,157 INFO  [log] 42
+2017-04-18 14:48:18,161 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:18,162 INFO  [log]  n is 2
+2017-04-18 14:48:18,162 INFO  [log] 43
+2017-04-18 14:48:18,163 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:18,163 INFO  [log] r6 is 44
+2017-04-18 14:48:18,164 INFO  [log]  o is 1
+2017-04-18 14:48:18,173 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:18,174 INFO  [log]  o is 2
+2017-04-18 14:48:18,176 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:18,176 INFO  [log]  o is 3
+2017-04-18 14:48:18,177 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:18,178 INFO  [log] r8 is 50
+2017-04-18 14:48:18,178 INFO  [log] r9 is 2
+2017-04-18 14:48:18,184 INFO  [log]  o is 1
+2017-04-18 14:48:18,184 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:18,185 INFO  [log]  o is 2
+2017-04-18 14:48:18,185 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:18,186 INFO  [log] 1
+2017-04-18 14:48:18,186 INFO  [log] 62
+2017-04-18 14:48:18,192 INFO  [log] 1
+2017-04-18 14:48:18,193 INFO  [log]  n is 1
+2017-04-18 14:48:18,194 INFO  [log] 65
+2017-04-18 14:48:18,194 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:18,330 INFO  [log] Reservation Number is 64464058
+2017-04-18 14:48:18,330 INFO  [log] TestCaseID is TC012
+2017-04-18 14:48:18,331 INFO  [log] Hotel Code is NCLJB
+2017-04-18 14:48:18,331 INFO  [log] Row Number is 012
+2017-04-18 14:48:18,369 INFO  [log] Data updated in Excel 64464058
+2017-04-18 14:48:18,370 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:18,375 INFO  [log] 	Executed Test step <PT-GET-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:18,657 INFO  [log] 	Executed Test step <GET-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:18,661 INFO  [log] 	Executed Test step <PT-GET-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:18,867 INFO  [log] 	Executed Test step <POST-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:18,873 INFO  [log] 	Executed Test step <PT-GET(false)-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:19,135 INFO  [log] 	Executed Test step <GET(false)-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:19,143 INFO  [log] 	Executed Test step <PT-POST(updatePref)-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:19,381 INFO  [log] 	Executed Test step <POST(updatePref)-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:19,387 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:19,694 INFO  [log] 	Executed Test step <GET(false-updatedPref)-EUROPE-EX-SPD> for Hotel NCLJB
+2017-04-18 14:48:19,793 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:19,797 INFO  [log] r2 is 1
+2017-04-18 14:48:19,798 INFO  [log] m is 1
+2017-04-18 14:48:19,799 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:19,799 INFO  [log] 39
+2017-04-18 14:48:19,800 INFO  [log] 2
+2017-04-18 14:48:19,800 INFO  [log]  n is 1
+2017-04-18 14:48:19,801 INFO  [log] 42
+2017-04-18 14:48:19,801 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:19,807 INFO  [log]  n is 2
+2017-04-18 14:48:19,808 INFO  [log] 43
+2017-04-18 14:48:19,808 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:19,809 INFO  [log] r6 is 44
+2017-04-18 14:48:19,809 INFO  [log]  o is 1
+2017-04-18 14:48:19,809 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:19,816 INFO  [log]  o is 2
+2017-04-18 14:48:19,816 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:19,817 INFO  [log]  o is 3
+2017-04-18 14:48:19,817 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:19,818 INFO  [log] r8 is 50
+2017-04-18 14:48:19,818 INFO  [log] r9 is 2
+2017-04-18 14:48:19,819 INFO  [log]  o is 1
+2017-04-18 14:48:19,826 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:19,827 INFO  [log]  o is 2
+2017-04-18 14:48:19,828 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:19,829 INFO  [log] 1
+2017-04-18 14:48:19,829 INFO  [log] 62
+2017-04-18 14:48:19,829 INFO  [log] 1
+2017-04-18 14:48:19,838 INFO  [log]  n is 1
+2017-04-18 14:48:19,838 INFO  [log] 65
+2017-04-18 14:48:19,839 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:19,973 INFO  [log] Reservation Number is 64464062
+2017-04-18 14:48:19,973 INFO  [log] TestCaseID is TC013
+2017-04-18 14:48:19,974 INFO  [log] Hotel Code is BHXSB
+2017-04-18 14:48:19,974 INFO  [log] Row Number is 013
+2017-04-18 14:48:20,020 INFO  [log] Data updated in Excel 64464062
+2017-04-18 14:48:20,021 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:20,027 INFO  [log] 	Executed Test step <PT-GET-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:20,274 INFO  [log] 	Executed Test step <GET-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:20,280 INFO  [log] 	Executed Test step <PT-GET-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:20,513 INFO  [log] 	Executed Test step <POST-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:20,520 INFO  [log] 	Executed Test step <PT-GET(false)-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:20,799 INFO  [log] 	Executed Test step <GET(false)-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:20,807 INFO  [log] 	Executed Test step <PT-POST(updatePref)-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:21,021 INFO  [log] 	Executed Test step <POST(updatePref)-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:21,028 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:21,315 INFO  [log] 	Executed Test step <GET(false-updatedPref)-EUROPE-SB-SPD> for Hotel BHXSB
+2017-04-18 14:48:21,373 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:21,378 INFO  [log] r2 is 1
+2017-04-18 14:48:21,379 INFO  [log] m is 1
+2017-04-18 14:48:21,379 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:21,380 INFO  [log] 39
+2017-04-18 14:48:21,380 INFO  [log] 2
+2017-04-18 14:48:21,381 INFO  [log]  n is 1
+2017-04-18 14:48:21,381 INFO  [log] 42
+2017-04-18 14:48:21,387 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:21,388 INFO  [log]  n is 2
+2017-04-18 14:48:21,389 INFO  [log] 43
+2017-04-18 14:48:21,389 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:21,389 INFO  [log] r6 is 44
+2017-04-18 14:48:21,389 INFO  [log]  o is 1
+2017-04-18 14:48:21,390 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:21,397 INFO  [log]  o is 2
+2017-04-18 14:48:21,397 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:21,398 INFO  [log]  o is 3
+2017-04-18 14:48:21,399 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:21,399 INFO  [log] r8 is 50
+2017-04-18 14:48:21,400 INFO  [log] r9 is 2
+2017-04-18 14:48:21,405 INFO  [log]  o is 1
+2017-04-18 14:48:21,406 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:21,406 INFO  [log]  o is 2
+2017-04-18 14:48:21,407 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:21,408 INFO  [log] 1
+2017-04-18 14:48:21,408 INFO  [log] 62
+2017-04-18 14:48:21,409 INFO  [log] 1
+2017-04-18 14:48:21,423 INFO  [log]  n is 1
+2017-04-18 14:48:21,424 INFO  [log] 65
+2017-04-18 14:48:21,424 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:21,552 INFO  [log] Reservation Number is 
+2017-04-18 14:48:21,552 INFO  [log] TestCaseID is TC014
+2017-04-18 14:48:21,552 INFO  [log] Hotel Code is SYXHA
+2017-04-18 14:48:21,552 INFO  [log] Row Number is 014
+2017-04-18 14:48:21,590 INFO  [log] Data updated in Excel 
+2017-04-18 14:48:21,591 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:21,596 INFO  [log] 	Executed Test step <PT-GET-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:21,697 INFO  [log] 	Executed Test step <GET-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:21,704 INFO  [log] 	Executed Test step <PT-GET-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:21,811 INFO  [log] 	Executed Test step <POST-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:21,817 INFO  [log] 	Executed Test step <PT-GET(false)-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:21,912 INFO  [log] 	Executed Test step <GET(false)-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:21,918 INFO  [log] 	Executed Test step <PT-POST(updatePref)-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:22,023 INFO  [log] 	Executed Test step <POST(updatePref)-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:22,029 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:22,128 INFO  [log] 	Executed Test step <GET(false-updatedPref)-GC-IC-SPD> for Hotel SYXHA
+2017-04-18 14:48:22,202 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:22,206 INFO  [log] r2 is 1
+2017-04-18 14:48:22,207 INFO  [log] m is 1
+2017-04-18 14:48:22,207 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:22,207 INFO  [log] 39
+2017-04-18 14:48:22,208 INFO  [log] 2
+2017-04-18 14:48:22,208 INFO  [log]  n is 1
+2017-04-18 14:48:22,209 INFO  [log] 42
+2017-04-18 14:48:22,209 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:22,209 INFO  [log]  n is 2
+2017-04-18 14:48:22,209 INFO  [log] 43
+2017-04-18 14:48:22,210 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:22,210 INFO  [log] r6 is 44
+2017-04-18 14:48:22,216 INFO  [log]  o is 1
+2017-04-18 14:48:22,217 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:22,218 INFO  [log]  o is 2
+2017-04-18 14:48:22,218 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:22,219 INFO  [log]  o is 3
+2017-04-18 14:48:22,219 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:22,219 INFO  [log] r8 is 50
+2017-04-18 14:48:22,229 INFO  [log] r9 is 2
+2017-04-18 14:48:22,230 INFO  [log]  o is 1
+2017-04-18 14:48:22,231 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:22,232 INFO  [log]  o is 2
+2017-04-18 14:48:22,232 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:22,234 INFO  [log] 1
+2017-04-18 14:48:22,240 INFO  [log] 62
+2017-04-18 14:48:22,241 INFO  [log] 1
+2017-04-18 14:48:22,241 INFO  [log]  n is 1
+2017-04-18 14:48:22,242 INFO  [log] 65
+2017-04-18 14:48:22,242 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:22,337 INFO  [log] Reservation Number is 64464063
+2017-04-18 14:48:22,338 INFO  [log] TestCaseID is TC015
+2017-04-18 14:48:22,338 INFO  [log] Hotel Code is SZXTR
+2017-04-18 14:48:22,339 INFO  [log] Row Number is 015
+2017-04-18 14:48:22,383 INFO  [log] Data updated in Excel 64464063
+2017-04-18 14:48:22,384 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:22,390 INFO  [log] 	Executed Test step <PT-GET-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:22,692 INFO  [log] 	Executed Test step <GET-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:22,699 INFO  [log] 	Executed Test step <PT-GET-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:22,954 INFO  [log] 	Executed Test step <POST-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:22,960 INFO  [log] 	Executed Test step <PT-GET(false)-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:23,236 INFO  [log] 	Executed Test step <GET(false)-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:23,242 INFO  [log] 	Executed Test step <PT-POST(updatePref)-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:23,442 INFO  [log] 	Executed Test step <POST(updatePref)-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:23,451 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:23,739 INFO  [log] 	Executed Test step <GET(false-updatedPref)-GC-CP-SPD> for Hotel SZXTR
+2017-04-18 14:48:23,841 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:23,847 INFO  [log] r2 is 1
+2017-04-18 14:48:23,849 INFO  [log] m is 1
+2017-04-18 14:48:23,851 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:23,852 INFO  [log] 39
+2017-04-18 14:48:23,852 INFO  [log] 2
+2017-04-18 14:48:23,852 INFO  [log]  n is 1
+2017-04-18 14:48:23,853 INFO  [log] 42
+2017-04-18 14:48:23,853 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:23,854 INFO  [log]  n is 2
+2017-04-18 14:48:23,862 INFO  [log] 43
+2017-04-18 14:48:23,862 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:23,863 INFO  [log] r6 is 44
+2017-04-18 14:48:23,863 INFO  [log]  o is 1
+2017-04-18 14:48:23,864 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:23,864 INFO  [log]  o is 2
+2017-04-18 14:48:23,874 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:23,875 INFO  [log]  o is 3
+2017-04-18 14:48:23,876 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:23,876 INFO  [log] r8 is 50
+2017-04-18 14:48:23,877 INFO  [log] r9 is 2
+2017-04-18 14:48:23,877 INFO  [log]  o is 1
+2017-04-18 14:48:23,877 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:23,884 INFO  [log]  o is 2
+2017-04-18 14:48:23,885 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:23,887 INFO  [log] 1
+2017-04-18 14:48:23,887 INFO  [log] 62
+2017-04-18 14:48:23,888 INFO  [log] 1
+2017-04-18 14:48:23,888 INFO  [log]  n is 1
+2017-04-18 14:48:23,900 INFO  [log] 65
+2017-04-18 14:48:23,901 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:24,032 INFO  [log] Reservation Number is 64464064
+2017-04-18 14:48:24,032 INFO  [log] TestCaseID is TC016
+2017-04-18 14:48:24,033 INFO  [log] Hotel Code is SHGPN
+2017-04-18 14:48:24,033 INFO  [log] Row Number is 016
+2017-04-18 14:48:24,075 INFO  [log] Data updated in Excel 64464064
+2017-04-18 14:48:24,077 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:24,084 INFO  [log] 	Executed Test step <PT-GET-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:24,336 INFO  [log] 	Executed Test step <GET-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:24,342 INFO  [log] 	Executed Test step <PT-GET-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:24,532 INFO  [log] 	Executed Test step <POST-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:24,539 INFO  [log] 	Executed Test step <PT-GET(false)-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:24,871 INFO  [log] 	Executed Test step <GET(false)-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:24,877 INFO  [log] 	Executed Test step <PT-POST(updatePref)-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:25,098 INFO  [log] 	Executed Test step <POST(updatePref)-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:25,107 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:25,436 INFO  [log] 	Executed Test step <GET(false-updatedPref)-GC-HI-SPD> for Hotel SHGPN
+2017-04-18 14:48:25,493 INFO  [log]  CHECK THE COUNT
+2017-04-18 14:48:25,497 INFO  [log] r2 is 1
+2017-04-18 14:48:25,497 INFO  [log] m is 1
+2017-04-18 14:48:25,498 INFO  [log] GetSPCStayPref0subgroup1KeyValues
+2017-04-18 14:48:25,498 INFO  [log] 39
+2017-04-18 14:48:25,498 INFO  [log] 2
+2017-04-18 14:48:25,499 INFO  [log]  n is 1
+2017-04-18 14:48:25,500 INFO  [log] 42
+2017-04-18 14:48:25,504 INFO  [log] GetSPCStayPref1subgroup1KeyValues
+2017-04-18 14:48:25,505 INFO  [log]  n is 2
+2017-04-18 14:48:25,505 INFO  [log] 43
+2017-04-18 14:48:25,505 INFO  [log] GetSPCStayPref1subgroup2KeyValues
+2017-04-18 14:48:25,506 INFO  [log] r6 is 44
+2017-04-18 14:48:25,506 INFO  [log]  o is 1
+2017-04-18 14:48:25,513 INFO  [log] GetSPCStayPref2subgroup1KeyValues1
+2017-04-18 14:48:25,514 INFO  [log]  o is 2
+2017-04-18 14:48:25,515 INFO  [log] GetSPCStayPref2subgroup1KeyValues2
+2017-04-18 14:48:25,516 INFO  [log]  o is 3
+2017-04-18 14:48:25,517 INFO  [log] GetSPCStayPref2subgroup1KeyValues3
+2017-04-18 14:48:25,517 INFO  [log] r8 is 50
+2017-04-18 14:48:25,518 INFO  [log] r9 is 2
+2017-04-18 14:48:25,522 INFO  [log]  o is 1
+2017-04-18 14:48:25,523 INFO  [log] GetSPCStayPref3subgroup1KeyValues1
+2017-04-18 14:48:25,523 INFO  [log]  o is 2
+2017-04-18 14:48:25,524 INFO  [log] GetSPCStayPref3subgroup1KeyValues2
+2017-04-18 14:48:25,525 INFO  [log] 1
+2017-04-18 14:48:25,525 INFO  [log] 62
+2017-04-18 14:48:25,533 INFO  [log] 1
+2017-04-18 14:48:25,535 INFO  [log]  n is 1
+2017-04-18 14:48:25,536 INFO  [log] 65
+2017-04-18 14:48:25,536 INFO  [log] 	Executing Test step <Create Reservation - Service via SOAPUI>
+2017-04-18 14:48:25,668 INFO  [log] Reservation Number is 64464067
+2017-04-18 14:48:25,668 INFO  [log] TestCaseID is TC017
+2017-04-18 14:48:25,669 INFO  [log] Hotel Code is SHASG
+2017-04-18 14:48:25,669 INFO  [log] Row Number is 017
+2017-04-18 14:48:25,707 INFO  [log] Data updated in Excel 64464067
+2017-04-18 14:48:25,708 INFO  [log] 2017-04-18 added to property
+2017-04-18 14:48:25,715 INFO  [log] 	Executed Test step <PT-GET-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:25,992 INFO  [log] 	Executed Test step <GET-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:25,998 INFO  [log] 	Executed Test step <PT-GET-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:26,222 INFO  [log] 	Executed Test step <POST-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:26,229 INFO  [log] 	Executed Test step <PT-GET(false)-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:26,603 INFO  [log] 	Executed Test step <GET(false)-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:26,609 INFO  [log] 	Executed Test step <PT-POST(updatePref)-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:26,839 INFO  [log] 	Executed Test step <POST(updatePref)-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:26,845 INFO  [log] 	Executed Test step <PT-GET(false-updatedPref)-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:27,125 INFO  [log] 	Executed Test step <GET(false-updatedPref)-GC-EX-SPD> for Hotel SHASG
+2017-04-18 14:48:27,230 INFO  [log]  CHECK THE COUNT

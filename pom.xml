@@ -1,0 +1,97 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.ihg.atp.crs.offline.reservation.service</groupId>
+	<artifactId>Bowtie--test</artifactId>
+	<version>1.0.0</version>
+	<name>Bowtie Test Automation</name>
+	<packaging>pom</packaging>
+	<description>Bowtie2B</description>
+	<properties>
+		<environment>qa</environment>
+		<orp_ors.test.suite.name/>
+		<paramsFileName>TestData.xls</paramsFileName>
+		<openInBrowser>Chrome</openInBrowser>
+		<service.timeout>10000</service.timeout>
+		<jdbc.version>11.2.0.3</jdbc.version>
+		<apache.poi.version>3.9</apache.poi.version>
+		<mq.version>7.0.0</mq.version>
+		<maven.soapui.plugin.version>4.6.1</maven.soapui.plugin.version>
+		<selenium.version>2.33.0</selenium.version>
+		<phantomjs.version>1.0.4</phantomjs.version>
+		<!-- For PhantomJS Browser need setup path to phantomjs: " -->
+		<!--
+		<specificBrowserDriverFilePath>c:/PhantomJS/phantomjs.exe</specificBrowserDriverFilePath>
+		-->
+		<!-- For Chrome Browser need setup path to chromedriver: " -->
+
+		<specificBrowserDriverFilePath>c:/ChromeDriver/chromedriver.exe</specificBrowserDriverFilePath>
+		</properties>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>SmartBearPluginRepository</id>
+            <url>http://www.soapui.org/repository/maven2/</url>
+        </pluginRepository>
+    </pluginRepositories>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.smartbear.soapui</groupId>
+						<artifactId>soapui-maven-plugin</artifactId>
+						<version>4.6.1</version>
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.poi</groupId>
+								<artifactId>poi</artifactId>
+								<version>3.9</version>
+							</dependency>
+							<dependency>
+								<groupId>org.apache.poi</groupId>
+								<artifactId>poi-ooxml</artifactId>
+								<version>3.9</version>
+								<exclusions>
+									<exclusion>
+										<groupId>org.apache.xmlbeans</groupId>
+										<artifactId>xmlbeans</artifactId>
+									</exclusion>
+								</exclusions>
+							</dependency>
+                </dependencies>
+						<configuration>
+							<outputFolder>${project.basedir}/Execution Summary Report</outputFolder>
+							<junitReport>true</junitReport>
+						</configuration>
+                <executions>
+                    <execution>
+                        <phase>test</phase>
+                        <goals>
+                            <goal>test</goal>
+                        </goals>
+                        <configuration>
+                            <projectFile>Bowtie 2B-Pilot1-soapui-project.xml</projectFile>
+                        </configuration>
+                    </execution>
+                </executions>
+				</plugin>
+				<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.7.2</version>
+						<configuration>
+						 <!-- testng xml suite file to be used for test execution -->
+						 <suitexmlfiles>
+						  <suitexmlfile>Bowtie 2B-Pilot1-soapui-project.xml</suitexmlfile>
+						 </suitexmlfiles>
+						 <!-- Setting properties for test execution -->
+						 <properties>
+						 <!-- Setting ReportNG listeners -->
+							 <property>
+							   <name>listener</name>
+							   <value>org.uncommons.reportng.HTMLReporter, org.uncommons.reportng.JUnitXMLReporter</value>
+							 </property>
+						 </properties>
+						</configuration>
+					</plugin>
+            </plugins>
+    </build>
+</project>
